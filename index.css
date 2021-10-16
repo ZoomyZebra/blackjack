@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color:seagreen;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 3rem;
+    color: goldenrod;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+button{
+    width: 250px;
+    padding: 0.5%;
+    margin-bottom: 10px;
+    background-color: goldenrod;
+    color: seagreen;
+    border: none;
+    font-size: 1.25rem;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.redSuit{
+    color: red;
+}
+
+.blackSuit{
+    color: black;
+}
+
+#winMessage{
+    font-size: 2rem;
+}
